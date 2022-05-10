@@ -1,0 +1,45 @@
+*{
+ margin:0;
+ padding:0;
+}
+
+.total{
+    border: 5px solid rgba(143, 14, 14, 0.45);
+    margin: 20px;
+    height: 90vh;
+}
+.content{
+  
+    padding:50px;
+}
+.content:last-child{
+    
+  
+}
+.content1{
+    margin:15px auto;
+    max-width: 400px;
+    background: #ffd;
+    border:5px  dashed #F4A460;
+    padding:1.5em;
+}
+.content2{
+    width:25em;
+    border-top:  10px double darkslategray;
+    border-bottom:  10px double darkslategray;
+    background-color: #DFF;
+    padding: 2em  20px;
+   
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-bottom: 20px ;
+
+}
+.content3{
+   
+
+    margin: 2em 150px 1em 500px;
+    border: 1em ridge lightsalmon;
+    padding: 30px;
+    background-color: burlywood;
+}
