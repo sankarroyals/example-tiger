@@ -20,20 +20,18 @@ const About = () => {
                 style={{marginLeft:"270px"}}
                 >
                    
-                    <li>
-                        <a href='/about'>About</a>
-
-                    </li>
-                    <li>
-                        <a href='/articles'>Articles</a>
-
-                    </li>
-                    <li>
-                        <a href='/categories'>Categories</a>
-                    </li>
-                    <li>
-                        <a href='/subscribe'>Subscribe</a>
-                    </li>
+                    <Link to="/about">
+                        <li>About</li>
+                    </Link>
+                    <Link to="/categories">
+                        <li>Categories</li>
+                    </Link>
+                    <Link to="/subscribe">
+                        <li>Subscribe</li>
+                    </Link>
+                    <Link to="/footer">
+                        <li>Footer</li>
+                    </Link>
                 </ul>
 
             </div>
