@@ -24,7 +24,7 @@ const Categories = () => {
                  Joel Falconer, <span  style={{color:"gray"}} >May 04</span>
                  </h5>
                  <p>
-                 It's hard to decide on a programming language to learn first. Here's a look at the most popular languages in 2022, and why they're worthwhile.
+                 Find out if Webflow is a viable option for tech-savvy users who want to build custom websites. This review covers the pros and cons of using this online builder service.
                  </p>
               </div>
           </div>
